@@ -1,3 +1,3 @@
-module github.com/wendy512/go-iecp5
+module github.com/LiHeng99/go-iecp5
 
-go 1.15
+go 1.23.0

@@ -4,8 +4,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/wendy512/go-iecp5/asdu"
-	"github.com/wendy512/go-iecp5/cs104"
+	"github.com/LiHeng99/go-iecp5/asdu"
+	"github.com/LiHeng99/go-iecp5/cs104"
 )
 
 func main() {
